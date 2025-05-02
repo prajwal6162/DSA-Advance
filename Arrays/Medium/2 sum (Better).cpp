@@ -1,5 +1,6 @@
 class Solution {
     public:
+        //these is most optimal for variety 1 if output is to give in Yes or No format.
         vector<int> twoSum(vector<int>& nums, int target) {
             int n=nums.size();
             unordered_map<int, int> mpp;
