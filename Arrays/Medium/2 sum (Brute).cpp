@@ -1,5 +1,6 @@
 class Solution {
     public:
+    //These is most optimal for type 2 in which we have to return the index.
         vector<int> twoSum(vector<int>& nums, int target) {
             int n=nums.size();
     
