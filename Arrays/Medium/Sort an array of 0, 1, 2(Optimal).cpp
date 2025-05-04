@@ -1,5 +1,6 @@
 class Solution {
     public:
+    //Dutch national flag algorithm
         void sortZeroOneTwo(vector<int>& nums) {
             int n=nums.size();
             int low=0, mid=0, high=n-1;
