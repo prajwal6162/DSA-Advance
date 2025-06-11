@@ -7,7 +7,9 @@ Welcome to the **DSA-Advance** repository! This collection is designed to provid
 
 To utilize the code templates and implementations in this repository:
 
-1. **Clone the Repository**:
+**Clone the Repository**:
 
    ```bash
    git clone https://github.com/prajwal6162/DSA-Advance.git
+
+
